@@ -475,7 +475,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "EMUPU_RAM40.net",
+      "netlist": "MEZ68HC11.net",
       "specctra_dsn": "EMUPU_RAM40.dsn",
       "step": "",
       "vrml": ""
